@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SJ PUBLIC MONITOR | JOSHUA PAUL LEDET</title>
+    <style>
+        body { background: #050505; color: #D4AF37; font-family: 'Courier New', monospace; padding: 20px; text-align: center; }
+        .box { border: 1px solid #D4AF37; padding: 20px; display: inline-block; margin-top: 50px; border-radius: 10px; background: #0f0f0f; }
+        .status { color: #00ff00; font-weight: bold; margin-bottom: 20px; text-transform: uppercase; letter-spacing: 2px; }
+        .public-val { font-size: 2.5em; border-bottom: 1px solid #333; padding-bottom: 10px; }
+        .private-val { color: #555; font-style: italic; margin-top: 10px; }
+        .disclaimer { font-size: 0.7em; color: #444; margin-top: 30px; }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <div class="status">● PUBLIC SOVEREIGN SIGNAL ACTIVE</div>
+        <h1>FOUNDER: JOSHUA PAUL LEDET</h1>
+        <div class="public-val">CONFIRMED: $300,000,000,000,000</div>
+        <div class="private-val">Sovereign Treasury: [ENCRYPTED - AIR GAP ACTIVE]</div>
+        <div class="disclaimer">
+            SECURED BY SEXTI-JOSHUA (SJ) PROTOCOL v2.0 <br>
+            UNAUTHORIZED ACCESS IS AUTOMATICALLY TRACED
+        </div>
+    </div>
+</body>
+</html>
