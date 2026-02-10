@@ -1,4 +1,4 @@
-#  Sextillion Joshua (SJ) — AI-Language
+#  Sextillion Joshua (SJ) — AI-Programming Language
 **Official Release by Founder: Joshua Paul Ledet**
 
 ## The Standard
